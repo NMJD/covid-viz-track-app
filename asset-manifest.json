@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/covid-viz-track-app/static/css/main.51e77dd6.chunk.css",
+    "main.js": "/covid-viz-track-app/static/js/main.c1ef940b.chunk.js",
+    "main.js.map": "/covid-viz-track-app/static/js/main.c1ef940b.chunk.js.map",
+    "runtime-main.js": "/covid-viz-track-app/static/js/runtime-main.cd230959.js",
+    "runtime-main.js.map": "/covid-viz-track-app/static/js/runtime-main.cd230959.js.map",
+    "static/js/2.6563bd1a.chunk.js": "/covid-viz-track-app/static/js/2.6563bd1a.chunk.js",
+    "static/js/2.6563bd1a.chunk.js.map": "/covid-viz-track-app/static/js/2.6563bd1a.chunk.js.map",
+    "index.html": "/covid-viz-track-app/index.html",
+    "static/css/main.51e77dd6.chunk.css.map": "/covid-viz-track-app/static/css/main.51e77dd6.chunk.css.map",
+    "static/js/2.6563bd1a.chunk.js.LICENSE.txt": "/covid-viz-track-app/static/js/2.6563bd1a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd230959.js",
+    "static/js/2.6563bd1a.chunk.js",
+    "static/css/main.51e77dd6.chunk.css",
+    "static/js/main.c1ef940b.chunk.js"
+  ]
+}
